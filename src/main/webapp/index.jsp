@@ -6,7 +6,7 @@ String version=resource.getString("version");%>
 <%=version %>
 <html>
 <body>
-<h2>War file was deployed into amazon EC2 instance using github 
+<h2>War file was deployed into amazon EC2 instance using github abbu
 "Successfully"</h2>
 </body>
 </html>
